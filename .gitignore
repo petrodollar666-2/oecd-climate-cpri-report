@@ -1,0 +1,5 @@
+*.csv
+index_backup.html
+journal_package/
+*.bat
+.DS_Store
